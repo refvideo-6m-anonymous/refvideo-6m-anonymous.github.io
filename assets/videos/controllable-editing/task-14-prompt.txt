@@ -1,0 +1,1 @@
+Turn this source clip into a fake scribble control clip.

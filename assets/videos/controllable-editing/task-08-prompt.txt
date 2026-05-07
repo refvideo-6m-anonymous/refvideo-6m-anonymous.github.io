@@ -1,0 +1,1 @@
+Generate the video result conditioned on this Canny input.
